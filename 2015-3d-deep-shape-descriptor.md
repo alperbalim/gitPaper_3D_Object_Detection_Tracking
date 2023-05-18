@@ -6,7 +6,7 @@
 | 데이터셋/모델 | SHREC’10 ShapeGoogle and McGill 3D benchmark datasets |
 | 참고 |  |
 | 코드 |  |
-
+# rrr
 # 3D Deep Shape Descriptor
 
 논문 산출물
